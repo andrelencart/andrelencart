@@ -31,14 +31,16 @@ My progress at 42 Lisbon:
 
 ### Languages:
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/966/138/png-transparent-c-the-ultimate-beginner-s-guide-microsoft-visual-c-2005-step-by-step-programming-for-beginners-computer-programming-studio-logos-ultimate-beginner-s-guide-microsoft-visual-c.png" alt="C#" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMPdhc4LdFg0n6IZEk5dxPM4lTQjlAGqnHg&s" width="60" alt="C" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,bash,godot" alt="Skill Icons" />
+  </a>
 </div>
 
-### Other:
+### Tools:
 <div align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" alt="Skill Icons" />
+  </a>
 </div>
 
  <h2><img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif width="60"> Connect with me: </h2>
