@@ -1,9 +1,9 @@
   <p align="center">
-    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1bDJzNjQycG1pdm9samFxNXk2cWQ1NmFnNTA1aXVuZG1sN2JrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VOUFXDSETndu93Gr0T/giphy.gif" width="70"> Welcome to my Profile <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpveXQ2N3Frb3U2MXdrMXJtYThka2Q2NXR1bzRqNzB0MW16c2l5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B395HcNOETZC9bTSF7/giphy.gif" width="70"></h1>
+    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1bDJzNjQycG1pdm9samFxNXk2cWQ1NmFnNTA1aXVuZG1sN2JrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VOUFXDSETndu93Gr0T/giphy.gif" width="70"> Welcome to my Profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1bDJzNjQycG1pdm9samFxNXk2cWQ1NmFnNTA1aXVuZG1sN2JrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VOUFXDSETndu93Gr0T/giphy.gif" width="70"></h1>
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+Andre+Lencart!" alt="Typing SVG"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+Andre+Lencart!;I'm+a+Student+at+42+Lisboa!" alt="Typing SVG"
   </a>
 </p>
 
