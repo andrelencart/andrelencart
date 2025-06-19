@@ -12,10 +12,34 @@
     <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG0xbGp2MnIyMndlNDdoYmZtMm1odGlua3VodW91aXFtaDZyZHI2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/owenQLfbnuhgevbYSp/giphy.gif" width="60"> About me: </h2>
   <p>
 
+<p align="center">
+  I'm a <b>Computer Science student</b> currently studying at <b>42 Lisboa</b>. I enjoy exploring new technologies, solving programming challenges, and building fun projects.<br>
+<ul>
+  <b>🎓What I'm working on:</b><br>
+  <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
+  <li> 👾 <b>Game Development </b> with <b>Godot</b> – bringing ideas to life through games.<br>
+  <li> 🌐 <b>Net Practice</b> – sharpening my network fundamentals.<br><br>
+ Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies and love playing and creating games.<br>
+  Always eager to learn more and collaborate on exciting projects!
+</ul>
+
 ## 🏆 42 Progress
 
 My progress at 42 Lisbon:
-	
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Important Concepts</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/andrelencart/42_Libft">Libft</a></b></td>
+    <td>]</td>
+    <td>✅ %</td>
+  </tr>
+</table>
+
 ## 📜 GitHub Stats:
 <p align="left">
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=andrelencart&show_icons=true&theme=material-palenight&rank_icon=github&icon_color=f06292&ring_color=205fb3" /></a>
@@ -33,14 +57,14 @@ My progress at 42 Lisbon:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,bash,godot" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cs,bash,html,godot" alt="Skills Icons" />
   </a>
 </div>
 
 <h3 align="center">Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" alt="Tools Icons" />
   </a>
 </div>
 
