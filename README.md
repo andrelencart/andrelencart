@@ -9,7 +9,7 @@
 
 </div>
   <p>
-    <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhtYWs3NWZqdXMybnJiYWNoamRiczNybTkza3RkanJ6ZWlscTI1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZeSWODCnHB9fazFsmm/giphy.gif" width="60"> About me: </h2>
+    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG0xbGp2MnIyMndlNDdoYmZtMm1odGlua3VodW91aXFtaDZyZHI2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/owenQLfbnuhgevbYSp/giphy.gif" width="60"> About me: </h2>
   <p>
 
 ## 🏆 42 Progress
