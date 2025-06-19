@@ -46,7 +46,9 @@ My progress at 42 Lisbon:
   </tr>
 </table>
 
-## 📜 GitHub Stats
+<p align="left">
+    <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70"> GitHub Stats </h2>
+<p>
 <p align="left">
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=andrelencart&show_icons=true&theme=material-palenight&rank_icon=github&icon_color=f06292&ring_color=205fb3" /></a>
 	&emsp;
@@ -55,17 +57,17 @@ My progress at 42 Lisbon:
 </p>
 
 <p align="left">
-    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> My Skills </h2>
+    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="70"> My Skills </h2>
 <p>
 
 <h3 align="center">Languages</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,bash,html,godot" alt="Skills Icons" />
   </a>
-</div>
-
+<p>
+	
 <h3 align="center">Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
