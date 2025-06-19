@@ -1,7 +1,9 @@
-# Welcome to my profile 👋
+  <p align="center">
+    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1bDJzNjQycG1pdm9samFxNXk2cWQ1NmFnNTA1aXVuZG1sN2JrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VOUFXDSETndu93Gr0T/giphy.gif" width="70"> Welcome to my Profile <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpveXQ2N3Frb3U2MXdrMXJtYThka2Q2NXR1bzRqNzB0MW16c2l5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B395HcNOETZC9bTSF7/giphy.gif" width="70"></h1>
+
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+Andre+Lencart" alt="Typing SVG"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+Andre+Lencart!" alt="Typing SVG"
   </a>
 </p>
 
@@ -22,9 +24,22 @@ My progress at 42 Lisbon:
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight" /></a>
 </p>
 
-## 👨🏻‍💻 My Skills:
-# De
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+</div>
+  <p>
+    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> My Skills </h2>
+  <p>
+
+### Development:
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine" />
+</div>
+
+### Other:
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+</div>
 
  <h2><img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif width="60"> Connect with me: </h2>
 <p align="center">
@@ -32,8 +47,5 @@ My progress at 42 Lisbon:
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
   </a>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andrelencart&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
