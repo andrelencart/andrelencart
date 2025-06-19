@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1bDJzNjQycG1pdm9samFxNXk2cWQ1NmFnNTA1aXVuZG1sN2JrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VOUFXDSETndu93Gr0T/giphy.gif" width="70"> Welcome to my Profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1bDJzNjQycG1pdm9samFxNXk2cWQ1NmFnNTA1aXVuZG1sN2JrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VOUFXDSETndu93Gr0T/giphy.gif" width="70"></h1>
+    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwNGlxYXVtc2ZlcmdvcmdyazNuYTlsd3RqYmZsZDNoZWlqM3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llUIrcZbR7yuwoH8jk/giphy.gif" width="80"> Welcome to my Profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwNGlxYXVtc2ZlcmdvcmdyazNuYTlsd3RqYmZsZDNoZWlqM3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llUIrcZbR7yuwoH8jk/giphy.gif" width="80"></h1>
 
 <p align="center">
   <a href="#">
@@ -12,7 +12,7 @@
 <p>
 
 <p align="center">
-  I'm a <b>Computer Science student</b> currently studying at <b>42 Lisboa</b>.<br>
+  I'm a <b>Computer Science student</b> from Portugal 🇵🇹 currently studying at <b>42 Lisboa</b>.<br>
   I enjoy exploring new technologies, solving programming challenges, and building fun projects.<br>
   Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies and love playing and creating games.<br><br><br>
 </p>
@@ -24,9 +24,10 @@
 </ul>
 
 <p align="left">
-    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6Mzhhc2txNG1vY201eHEwZDZub21sNDR3dzM0aXk1ZTJ0MXJqNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gizZvICXsQn2g6JajG/giphy.gif" width="70"> 42 Projects </h2>
+    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6Mzhhc2txNG1vY201eHEwZDZub21sNDR3dzM0aXk1ZTJ0MXJqNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gizZvICXsQn2g6JajG/giphy.gif" width="70">  42 Projects </h2>
 <p>
-My progress at 42 Lisbon:
+	
+#### My progress at 42 Lisbon:
 
 <table align="center">
   <tr>
