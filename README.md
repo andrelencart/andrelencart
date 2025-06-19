@@ -49,5 +49,3 @@ My progress at 42 Lisbon:
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
   </a>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
