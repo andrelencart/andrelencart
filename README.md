@@ -29,10 +29,10 @@ My progress at 42 Lisbon:
     <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> My Skills </h2>
   <p>
 
-### Development:
+### Languages:
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://w7.pngwing.com/pngs/966/138/png-transparent-c-the-ultimate-beginner-s-guide-microsoft-visual-c-2005-step-by-step-programming-for-beginners-computer-programming-studio-logos-ultimate-beginner-s-guide-microsoft-visual-c.png" alt="C#" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMPdhc4LdFg0n6IZEk5dxPM4lTQjlAGqnHg&s" width="60" alt="C" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Engine" />
 </div>
 
