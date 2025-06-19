@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+Andre+Lencart!;I'm+a+Student+at+42+Lisboa!" alt="Typing SVG"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+flex&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+André+Lencart!;I'm+a+Student+at+42+Lisboa!" alt="Typing SVG"
   </a>
 </p>
 
@@ -29,14 +29,15 @@ My progress at 42 Lisbon:
     <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> My Skills </h2>
   <p>
 
-### Languages:
+<h3 align="center">Languages:</h3>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,bash,godot" alt="Skill Icons" />
   </a>
 </div>
 
-### Tools:
+<h3 align="center">Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" alt="Skill Icons" />
