@@ -31,8 +31,8 @@ My progress at 42 Lisbon:
 <table align="center">
   <tr>
     <th>Project</th>
-    <th>Important Concepts</th>
-    <th>Status</th>
+    <th>Concepts</th>
+    <th>Percentage</th>
   </tr>
   <tr>
     <td><b><a href="https://github.com/andrelencart/42_Libft">Libft</a></b></td>
