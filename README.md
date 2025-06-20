@@ -32,8 +32,11 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,bash,html,godot" alt="Skills Icons" />
+  <a href="https://cplusplus.com/reference/clibrary/">
+    <img src="https://skillicons.dev/icons?i=c" alt="Skills Icons" />
+  </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,bash,html,godot" alt="Skills Icons" />
   </a>
 <p>
 	
