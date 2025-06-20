@@ -79,12 +79,47 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/andrelencart/42_Libft">Libft</a></b></td>
-    <td></td>
-    <td>✅ %</td>
+    <td>Custom C Library, Memory Management, Linked Lists</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/andrelencart/42_Get_next_line">Get_next_line</a></b></td>
+    <td>File Descriptors, Buffer Management, Dynamic Memory Allocation</td>
+    <td>✅ 125%</td>
+  </tr>
+ <tr>
+    <td><b><a href="https://github.com/andrelencart/42_Printf">Printf</a></b></td>
+    <td>Variadic Functions, Formatting Strings, Modular Design</td>
+    <td>✅ 100%</td>
+  </tr>
+ <tr>
+    <td><b><a href="https://github.com/andrelencart/42_Push_Swap">Push_Swap</a></b></td>
+    <td>Algorithm Optimization, Sorting Algorithms, Stack Data Structure</td>
+    <td>✅ 100%</td>
+  </tr>
+ <tr>
+    <td><b><a href="https://github.com/andrelencart/42_Fdf">Fdf</a></b></td>
+    <td>Graphics Programming, Matrix and Vector Math, Event Handling</td>
+    <td>✅ 120%</td>
+  </tr>
+ <tr>
+    <td><b><a href="https://github.com/andrelencart/42_Pipex">Pipex</a></b></td>
+    <td>Shell-Like Behavior, Process Management, Command Execution</td>
+    <td>✅ 125%</td>
+  </tr>
+<tr>
+    <td><b><a href="https://github.com/andrelencart/Minishell">Minishell</a></b></td>
+    <td>Shell Basics, Parsing and Tokenization, Pipelines</td>
+    <td>✅ 100%</td>
+  </tr>
+<tr>
+    <td><b><a href="https://github.com/andrelencart/42_Philosophers">Philosophers</a></b></td>
+    <td>Multithreading, Synchronization, Time Management</td>
+     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/andrelencart/42_NetPractice">Net Practice</a></b></td>
-    <td></td>
+    <td>Networking Basics, IP Addressing, Network Troubleshooting</td>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
 </table>
