@@ -79,7 +79,7 @@
 </p>
 
 
- <h2><img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif width="60"> Connect with me: </h2>
+ <h2><img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif width="60"> Connect with me </h2>
 <p align="center">
   <a href="mailto:andre.lencart@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
