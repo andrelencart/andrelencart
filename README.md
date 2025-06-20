@@ -52,7 +52,7 @@
 
 <table align="center">
   <tr>
-    <th>Project</th>
+    <th>Projects</th>
     <th>Concepts</th>
     <th>Percentage</th>
   </tr>
