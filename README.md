@@ -26,7 +26,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelencart&label=Profile%20views&color=0e75b6&style=flat" alt="andrelencart" /> </p>
 
 <p align="left">
-    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="70"> My Skills </h2>
+    <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif" width="70"> My Skills </h2>
 <p>
 
 <h3 align="center">Languages</h3>
@@ -78,10 +78,11 @@
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight" /></a>
 </p>
 
-
+<!--
  <h2><img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif width="60"> Connect with me </h2>
 <p align="center">
   <a href="mailto:andre.lencart@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48"/>
   </a>
 </p>
+-->
