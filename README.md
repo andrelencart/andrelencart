@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=html" alt="Skills Icons" />
   </a>
 <a href="https://docs.godotengine.org/en/stable/community/tutorials.html">
-    <img src="https://skillicons.dev/icons?godot" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=godot" alt="Skills Icons" />
   </a>
 <p>
 	
