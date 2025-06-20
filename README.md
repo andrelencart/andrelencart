@@ -35,8 +35,17 @@
   <a href="https://cplusplus.com/reference/clibrary/">
     <img src="https://skillicons.dev/icons?i=c" alt="Skills Icons" />
   </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,bash,html,godot" alt="Skills Icons" />
+<a href="https://www.w3schools.com/cs/cs_intro.php">
+    <img src="https://skillicons.dev/icons?i=cs" alt="Skills Icons" />
+  </a>
+<a href="https://www.geeksforgeeks.org/linux-unix/bash-scripting-introduction-to-bash-and-bash-scripting/">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Skills Icons" />
+  </a>
+<a href="https://www.w3schools.com/html/">
+    <img src="https://skillicons.dev/icons?i=html" alt="Skills Icons" />
+  </a>
+<a href="https://docs.godotengine.org/en/stable/community/tutorials.html">
+    <img src="https://skillicons.dev/icons?godot" alt="Skills Icons" />
   </a>
 <p>
 	
