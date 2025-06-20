@@ -51,8 +51,17 @@
 	
 <h3 align="center">Tools</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop" alt="Tools Icons" />
+  <a href="https://git-scm.com/docs/gittutorial">
+    <img src="https://skillicons.dev/icons?i=git" alt="Tools Icons" />
+  </a>
+ <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="Skills Icons" />
+  </a>
+ <a href="https://code.visualstudio.com/docs/introvideos/basics">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills Icons" />
+  </a>
+ <a href="https://lightroom.adobe.com/">
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="Skills Icons" />
   </a>
 </div>
 
