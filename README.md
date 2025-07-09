@@ -12,7 +12,7 @@
 <p>
 
 <p align="center">
-  I'm a <b>Computer Science student</b> from Portugal 🇵🇹 currently studying at <b>42 Lisboa</b>.<br>
+  I'm a <b>Computer Science Student</b> from Portugal 🇵🇹 currently studying at <b>42 Lisboa</b>.<br>
   I enjoy exploring new technologies, solving programming challenges, and building fun projects.<br>
   Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies and love playing and creating games.<br><br><br>
 </p>
