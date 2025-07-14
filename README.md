@@ -128,13 +128,23 @@
     <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70"> GitHub Stats </h2>
 <p>
 <p align="left">
+	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=andrelencart&show_icons=true&theme=material-palenight&rank_icon=github&icon_color=f06292&ring_color=205fb3&cache_seconds=1800" /></a>
+	&emsp;
+	&emsp;
+	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight&cache_seconds=1800" /></a>
+</p>
+
+<!--
+<p align="left">
+    <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70"> GitHub Stats </h2>
+<p>
+<p align="left">
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=andrelencart&show_icons=true&theme=material-palenight&rank_icon=github&icon_color=f06292&ring_color=205fb3" /></a>
 	&emsp;
 	&emsp;
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight" /></a>
 </p>
 
-<!--
  <h2><img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmZHM2ZDdwbDE0Z3VxZGZoaGl1dmRmOHF3enI1c2RnMmdmeG5mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif width="60"> Connect with me </h2>
 <p align="center">
   <a href="mailto:andre.lencart@gmail.com">
