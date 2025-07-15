@@ -118,7 +118,7 @@
      <td>100%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/andrelencart/42_NetPractice">Net Practice</a></b></td>
+    <td><b><a href="https://medium.com/@imyzf/netpractice-2d2b39b6cf0a" >Net Practice</a></b></td>
     <td>Networking Basics, IP Addressing, Network Troubleshooting</td>
     <td>100%</td>
   </tr>
