@@ -20,7 +20,7 @@
   <b>🎓What I'm working on:</b><br>
   <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
   <li> 👾 <b>Game Development </b> with <b>Godot</b> – bringing ideas to life through games.<br>
-  <li> 🌐 <b>Net Practice</b> – sharpening my network fundamentals.<br><br>
+  <li> 🧊 <b>Cube3D</b> –  building a simple 3D engine in C using raycasting techniques.<br><br>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelencart&label=Profile%20views&color=0e75b6&style=flat" alt="andrelencart" /> </p>
@@ -121,6 +121,11 @@
     <td><b><a href="https://medium.com/@imyzf/netpractice-2d2b39b6cf0a" >Net Practice</a></b></td>
     <td>Networking Basics, IP Addressing, Network Troubleshooting</td>
     <td>100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/andrelencart/Cube3D" >Cube3D</a></b></td>
+    <td>Raycasting Algorithm, Graphics Programming, Game Loop</td>
+    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
 </table>
 
