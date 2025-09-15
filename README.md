@@ -139,7 +139,7 @@
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight&cache_seconds=1800&t=1" /></a>
 </p>
 
-<!--
+<!--a
 <p align="left">
     <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70"> GitHub Stats </h2>
 <p>
