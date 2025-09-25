@@ -20,7 +20,7 @@
   <b>🎓What I'm working on:</b><br>
   <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
   <li> 👾 <b>Game Development </b> with <b>Godot</b> – bringing ideas to life through games.<br>
-  <li> 🧊 <b>Cube3D</b> –  building a simple 3D engine in C using raycasting techniques.<br><br>
+  <li> 🚀 <b>C++ Piscine</b> – learning Object-Oriented Programming and modern C++ features through intensive projects.<br><br>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelencart&label=Profile%20views&color=0e75b6&style=flat" alt="andrelencart" /> </p>
@@ -123,8 +123,13 @@
     <td>100%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/andrelencart/Cube3D" >Cube3D</a></b></td>
+    <td><b><a href="https://github.com/andrelencart/Cub3D" >Cube3D</a></b></td>
     <td>Raycasting Algorithm, Graphics Programming, Game Loop</td>
+    <td>125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/andrelencart/Cub3D" >CPP's</a></b></td>
+    <td>Object-Oriented Programming, Memory Management, STL</td>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
 </table>
@@ -140,6 +145,7 @@
 </p>
 
 <!--a
+<td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
 <p align="left">
     <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70"> GitHub Stats </h2>
 <p>
