@@ -20,7 +20,7 @@
   <b>🎓What I'm working on:</b><br>
   <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
   <li> 👾 <b>Game Development </b> with <b>Godot</b> – bringing ideas to life through games.<br>
-  <li> 🚀 <b>C++ Piscine</b> – learning Object-Oriented Programming and modern C++ features through intensive projects.<br><br>
+  <li> 🚀 <b>C++ Modules</b> – learning Object-Oriented Programming and modern C++ features through intensive projects.<br><br>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelencart&label=Profile%20views&color=0e75b6&style=flat" alt="andrelencart" /> </p>
@@ -35,6 +35,9 @@
   <a href="https://cplusplus.com/reference/clibrary/">
     <img src="https://skillicons.dev/icons?i=c" alt="Skills Icons" />
   </a>
+  <a href="https://cplusplus.com/reference/">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="Skills Icons" />
+  </a>	
 <a href="https://www.w3schools.com/cs/cs_intro.php">
     <img src="https://skillicons.dev/icons?i=cs" alt="Skills Icons" />
   </a>
