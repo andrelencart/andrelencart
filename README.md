@@ -126,7 +126,7 @@
     <td>100%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/andrelencart/Cub3D" >Cube3D</a></b></td>
+    <td><b><a href="https://github.com/andrelencart/Cub3D" >Cub3D</a></b></td>
     <td>Raycasting Algorithm, Graphics Programming, Game Loop</td>
     <td>125%</td>
   </tr>
