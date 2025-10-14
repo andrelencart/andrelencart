@@ -144,7 +144,7 @@
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=andrelencart&show_icons=true&theme=material-palenight&rank_icon=github&icon_color=f06292&ring_color=205fb3&cache_seconds=1800&t=1" /></a>
 	&emsp;
 	&emsp;
-	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight&cache_seconds=1800" /></a>
+	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelencart&layout=compact&theme=material-palenight&cache_seconds=1800&t=1" /></a>
 </p>
 
 <!--a
