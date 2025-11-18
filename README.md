@@ -44,9 +44,9 @@
 <a href="https://www.geeksforgeeks.org/linux-unix/bash-scripting-introduction-to-bash-and-bash-scripting/">
     <img src="https://skillicons.dev/icons?i=bash" alt="Skills Icons" />
   </a>
-<a href="https://www.w3schools.com/html/">
+<!-- <a href="https://www.w3schools.com/html/">
     <img src="https://skillicons.dev/icons?i=html" alt="Skills Icons" />
-  </a>
+  </a> -->
 <a href="https://docs.godotengine.org/en/stable/community/tutorials.html">
     <img src="https://skillicons.dev/icons?i=godot" alt="Skills Icons" />
   </a>
