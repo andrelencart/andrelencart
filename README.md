@@ -148,7 +148,7 @@
 
 ![GitHub Stats](https://github-readme-stats-andre-seven.vercel.app/api?username=andrelencart&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats-andre-seven.vercel.app/api/top-langs/?username=andrelencart&layout=compact&langs_count=6&theme=midnight-purple)
+![Top Langs](https://github-readme-stats-andre-seven.vercel.app/api/top-langs/?username=andrelencart&layout=compact&langs_count=6&theme=midnight-purple&exclude_repo=github-readme-stats-andre)
 <!-- <p align="left">
 	<a href="#stats-"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=andrelencart&show_icons=true&theme=dracula&rank_icon=github&icon_color=f06292&ring_color=205fb3&cache_seconds=1800&t=1" /></a>
 	&emsp;
