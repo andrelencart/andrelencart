@@ -12,15 +12,23 @@
 <p>
 
 <p align="center">
-  I'm a <b>Computer Science Student</b> from Portugal 🇵🇹 currently studying at <b>42 Lisboa</b>.<br>
-  I enjoy exploring new technologies, solving programming challenges, and building fun projects.<br>
-  Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies and like playing and creating games.<br><br><br>
+  I'm a <b>Computer Science Student</b> from Portugal 🇵🇹 currently studying at <b>42 Lisboa</b>
+and working at <b>Shaken Academy</b> on AI for Business.<br>
+I enjoy exploring new technologies, solving programming challenges, and building projects.<br>
+Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies.<br><br><br>
 </p>
+<!--
 <ul>
   <b>🎓What I'm working on:</b><br>
   <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
   <li> 👾 <b>Game Development </b> with <b>Godot</b> – bringing ideas to life through games.<br>
   <li> 🚀 <b>C++ Modules</b> – learning Object-Oriented Programming and modern C++ features through intensive projects.<br><br>
+</ul>
+-->
+<ul>
+  <b>🎓What I'm working on:</b><br>
+  <li> 🤖 <b>AI for Business</b> at <b>Shaken Academy</b> – designing challenges, delivering talks, and creating hands-on exercises to help professionals apply AI in 			real-world business contexts.<br>
+  <li> 📡 <b>ft_irc</b> – building a C++98 IRC server from scratch, implementing TCP/IP sockets, I/O multiplexing, and the IRC protocol (RFC 1459).<br><br>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelencart&label=Profile%20views&color=0e75b6&style=flat" alt="andrelencart" /> </p>
@@ -141,8 +149,8 @@
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
 	<tr>
-    <td><b><a href="https://github.com/andrelencart/Inception" >IRC</a></b></td>
-    <td>Docker Containers, Databases, Intra Networks</td>
+    <td><b><a href="https://github.com/andrelencart/42_IRC" >IRC</a></b></td>
+    <td>TCP/IP Sockets, I/O Multiplexing (poll), IRC Protocol (RFC 1459)</td>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
 </table>
