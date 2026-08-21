@@ -154,11 +154,13 @@ Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies.<br><br><br>
 	<tr>
     <td><b><a href="https://github.com/andrelencart/42_IRC" >IRC</a></b></td>
     <td>TCP/IP Sockets, I/O Multiplexing (poll), IRC Protocol (RFC 1459)</td>
-    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
+    <td>100%</td>
   </tr>
 </table>
-
+<!--
+img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70
 <p align="left">
+-->
     <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzbWkxZzYwaXRzdGNwcnp5azRndWl3N2JpOXR1NHhlNmxoY3I3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="70"> GitHub Stats </h2>
 <p>
 
