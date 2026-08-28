@@ -158,7 +158,7 @@ Besides coding, I'm a big fan of <b>Studio Ghibli</b> movies.<br><br><br>
   </tr>
 	<tr>
     <td><b><a href="https://github.com/jomunoz42/ft_transcendence" >Transcendence</a></b></td>
-    <td>TCP/IP Sockets, I/O Multiplexing (poll), IRC Protocol (RFC 1459)</td>
+    <td>N/A</td>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrY2lodzRtdnAzdXlpcXgyYWN4cXd5OWNqbzBzc2M2MGw1b20zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/WB5lB9KvdAkfSSvKzS/giphy.gif" width="70"></td>
   </tr>
 </table>
