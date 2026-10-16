@@ -24,7 +24,7 @@ Besides coding, I'm a big fan of **Studio Ghibli** movies.
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vscode" alt="Git, GitHub, Docker, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git, GitHub, Docker, VS Code" />
 </p>
 
 ## 42 Projects
